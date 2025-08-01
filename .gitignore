@@ -7,6 +7,9 @@
 ehthumbs.db
 Thumbs.db
 
+# DLL files
+*.dll
+
 # Node.js
 node_modules/
 npm-debug.log
